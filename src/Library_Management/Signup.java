@@ -24,7 +24,9 @@ public class Signup extends javax.swing.JFrame {
     CallableStatement csmt = null;
     ResultSet rs = null;
     PreparedStatement ps = null;
-   
+    /**
+     * Creates new form Signup
+     */
     public Signup() {
         initComponents();
         con = DatabaseHelper.getConnection();
