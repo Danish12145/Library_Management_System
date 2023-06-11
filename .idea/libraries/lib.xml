@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jdatechooser_bin_doc_1_1_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JTattoo-1.6.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
