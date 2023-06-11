@@ -6,7 +6,7 @@ package library_management_system;
 
 /**
  *
- * @author Rayyan Tech
+ * @author danish
  */
 public class Library_Management_System {
 
